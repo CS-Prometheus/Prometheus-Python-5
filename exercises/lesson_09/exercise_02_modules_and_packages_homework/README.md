@@ -1,6 +1,6 @@
 # Exercise 02 — Modules and Packages (Homework)
 
-*Week 5, Day 2*
+*Week 9, Day 2*
 
 Write your answers as Python code by filling in the functions in `exercise.py`. Test each one by running the tests.
 
